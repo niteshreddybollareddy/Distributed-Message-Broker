@@ -1,0 +1,11 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/broker/benchmark/RingBufferBenchmark.setup
+inline,com/broker/benchmark/RingBufferBenchmark.teardown
+inline,com/broker/benchmark/RingBufferBenchmark.testPublishLatency
+inline,com/broker/benchmark/ThroughputBenchmark.setup
+inline,com/broker/benchmark/ThroughputBenchmark.teardown
+inline,com/broker/benchmark/ThroughputBenchmark.testThroughput
